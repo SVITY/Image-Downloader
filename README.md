@@ -1,2 +1,2 @@
-# Image-Downloader
-Image Downloader is Google Chrome extension
+# Images-Downloader
+Images Downloader is Google Chrome extension
